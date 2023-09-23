@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qrfR2V0bTswCPtM/DPPSTKpGLsxdVmpNAgItG9b0W1+bS2vjqT7leWHKXAT+F6EA0Ioa8bjTKBB1RER9GvhO1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Rock_Paper_Scossirs\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Rock_Paper_Scissors.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
